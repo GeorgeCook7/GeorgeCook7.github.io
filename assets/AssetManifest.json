@@ -1,1 +1,1 @@
-{"shaders/attractorshader.frag":["shaders/attractorshader.frag"],"shaders/customfractalshader.frag":["shaders/customfractalshader.frag"],"shaders/mandelbrotshader.frag":["shaders/mandelbrotshader.frag"],"shaders/velocityorbitalfractalshader.frag":["shaders/velocityorbitalfractalshader.frag"]}
+{"shaders/customfractalshader.frag":["shaders/customfractalshader.frag"],"shaders/mandelbrotshader.frag":["shaders/mandelbrotshader.frag"],"shaders/orbitsfractalshader.frag":["shaders/orbitsfractalshader.frag"]}
